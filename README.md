@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 </div>
 -->
 
-
+<!--
 ## Statistics
+-->
 
 <!-- Copy-paste in your Readme.md file -->
 
@@ -51,7 +52,11 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiShuMing&theme=transparent)
+
+<!-- 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiShuMing&theme=transparent)
+-->
+
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiShuMing&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LiShuMing&theme=transparent)
