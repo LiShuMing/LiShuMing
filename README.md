@@ -46,7 +46,10 @@ Here are some ideas to get you started:
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=LiShuMing&show_icons=true" alt="LiShuMing's github stats"/>
+-->
+
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiShuMing&layout=compact&langs_count=10&exclude_repo=bustub,huili.github.io,LiShuMing.github.io,bolt-1.3.0-codedump,etcd-3.5.0-codedump,etcd-3.1.10-codedump,postgresql-codedump,linux-kernel-4.15-codedump" alt="LiShuMing's github stats"/>
 -->
